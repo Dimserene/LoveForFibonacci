@@ -292,6 +292,11 @@ SMODS.Joker {
     blueprint_compat = true
 }
 
+--- JokerDisplay mod support
+if JokerDisplay then
+    SMODS.load_file('JokerDisplay_integration.lua')()
+end
+
 SMODS.Joker {
     key = 'cynical',
     config = {
