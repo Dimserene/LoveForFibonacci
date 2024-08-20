@@ -297,6 +297,11 @@ if JokerDisplay then
     SMODS.load_file('JokerDisplay_integration.lua')()
 end
 
+--- Score Preview mod support
+if DV and DV.SIM then
+    SMODS.load_file('ScorePreview_integration.lua')()
+end
+
 SMODS.Joker {
     key = 'cynical',
     config = {
