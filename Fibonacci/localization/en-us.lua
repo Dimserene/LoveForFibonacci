@@ -18,28 +18,28 @@ return {
             c_fibonacci_inner_spiral = "The Inner Spiral"
         }
     },
-	descriptions = {
-		Planet = {
+    descriptions = {
+        Planet = {
             c_fibonacci_phobos = {
-				name = "Phobos",
-				text = {
-					"{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
-					"{C:attention}#2#",
-					"{C:mult}+#3#{} Mult and",
-					"{C:chips}+#4#{} chips",
-				}
+                name = "Phobos",
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                }
             },
             c_fibonacci_deimos = {
-				name = "Deimos",
-				text = {
-					"{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
-					"{C:attention}#2#",
-					"{C:mult}+#3#{} Mult and",
-					"{C:chips}+#4#{} chips",
-				}
+                name = "Deimos",
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                }
             }
         },
-		Joker = {
+        Joker = {
             j_fibonacci_golden_ratio = {
                 name = "The Golden Ratio",
                 text = {
