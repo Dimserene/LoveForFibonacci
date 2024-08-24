@@ -51,7 +51,7 @@ end
 
 --- HANDS ---
 local fibonacci_mult = function(n)
-    local memo_mult = {2, 3}
+    local memo_mult = {3, 5}
     local solve_mult = function(n)
         if n <= #memo_mult then
             return memo_mult[n]
@@ -64,7 +64,7 @@ local fibonacci_mult = function(n)
 end
 
 local fibonacci_chips = function(n)
-    local memo_chips = {21, 34}
+    local memo_chips = {34, 55}
     local solve_chips = function(n)
         if n <= #memo_chips then
             return memo_chips[n]
@@ -162,8 +162,8 @@ SMODS.PokerHandPart {
 
 local fibonacci_hand = SMODS.PokerHand {
     key = 'Fibonacci',
-    mult = 3,
-    chips = 34,
+    mult = 5,
+    chips = 55,
     l_mult = fibonacci_mult(1),
     l_chips = fibonacci_chips(1),
     example = {
