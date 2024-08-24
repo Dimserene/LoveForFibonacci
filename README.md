@@ -1,2 +1,2 @@
 # Balatro-Mods
-Mods for Balatro using Steamodded 0.9.8
+Mods for Balatro using Steamodded 1.0.0
