@@ -265,7 +265,6 @@ SMODS.Joker {
     },
 }
 
--- TODO: Change how Spiral Clock works, add new joker
 SMODS.Joker {
     key = 'spiral_clock',
     config = {
