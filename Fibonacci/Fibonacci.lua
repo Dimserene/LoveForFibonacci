@@ -3,7 +3,7 @@
 --- MOD_ID: fibonacci
 --- MOD_AUTHOR: [Surrealreal_]
 --- MOD_DESCRIPTION: Adds Fibonacci hands
---- VERSION: 1.0.0
+--- VERSION: 1.1.0
 --- PREFIX: fibonacci
 
 --- HELPER FUNCS ---
