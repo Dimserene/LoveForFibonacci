@@ -6,6 +6,8 @@
 --- VERSION: 0.0.1
 --- PREFIX: inscsigs
 
+--- SPECTRAL ---
+
 SMODS.Atlas {
     key = 'spectral',
     path = 'Scrybe.png',
@@ -22,4 +24,28 @@ SMODS.Consumable {
     cost = 4,
     unlocked = true,
     discovered = false
+}
+
+--- JOKERS ---
+
+SMODS.Atlas {
+    key = 'jokers',
+    path = 'deathcard.png',
+    px = 71,
+    py = 95
+}
+
+SMODS.Joker {
+    key = 'deathcard',
+    effect = 'Gain X0.5 Mult',
+    config = {
+        Xmult = 1,
+    },
+    atlas = 'inscsigs_jokers',
+    pos = { x = 0, y = 0 },
+    rarity = 3,
+    cost = 8,
+    unlocked = true,
+    discovered = false,
+    blueprint_compat = true
 }
