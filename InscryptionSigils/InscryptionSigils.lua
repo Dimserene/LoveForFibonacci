@@ -30,7 +30,7 @@ SMODS.Consumable {
 
 SMODS.Atlas {
     key = 'jokers',
-    path = 'deathcard.png',
+    path = 'InscJokers.png',
     px = 71,
     py = 95
 }
