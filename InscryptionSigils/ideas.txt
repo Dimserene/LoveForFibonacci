@@ -6,8 +6,9 @@ Fledging - After being played, this card permanantly gains 50 chips and 10 mult 
 Hoarder - After hand, draw an extra card
 Fecundity - Copy this card into hand after playing (loses fecundity)
 Bone King - x2 chips
-Unkillable - Redraw this card into your hand after playing
+Unkillable - Redraw this card into your hand after playing 
 Guardian - Retrigger this card as many times as there are empty played slots (if 1 card is played, retrigger 4 times)
+Airborne - Score this card regardless of hand played (like splash)
 Many Lives - Discarding this card will redraw the card
 Worthy Sacrifice - Discarding this card will count as 3 discards of this card
 Bifurcated Strike - x2 and retrigger once
