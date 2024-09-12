@@ -1,6 +1,8 @@
 return {
     misc = {
-        
+        challenge_names = {
+            c_inscsigs_start_scrybe = "Start with Scrybe"
+        }
     },
     descriptions = {
         Spectral = {
